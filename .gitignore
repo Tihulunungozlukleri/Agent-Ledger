@@ -1,0 +1,23 @@
+# SQLite Databases
+*.db
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python compilation artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Exported CSVs
+*.csv
+
+# Environment variables & secrets
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
